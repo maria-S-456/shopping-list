@@ -1,0 +1,52 @@
+* {
+	font-family: sans-serif;
+	font-weight: normal;
+}
+#centerPanel {
+	margin-left: 450px;
+	margin-top: -5px;
+	padding-left: 10px;
+
+}
+h1 {
+	font-size: 34px;
+
+}
+.font-size {
+	font-size: 17px;
+}
+#add-input {
+	height:25px;
+	width: 190px;
+	font-size: 16px;
+}
+.slash-through {
+	text-decoration: line-through;
+}
+button {
+	/*height: 30px;
+	width: 85px;*/
+	font-size: 17px;
+}
+#submitBtn {
+	height: 30px;
+	width: 85px;
+}
+.divBtns {
+	margin-top: 10px;
+}
+.box {
+	border: 1px solid black;
+	border-color: grey;
+	width: 560px;
+	height: 65px;
+	padding: 20px;
+	font-style: italic;
+	font-size: 22px;
+	margin-bottom:20px;
+}
+ul {
+	list-style-type: none;
+	margin-left:-40px;
+	color: grey;
+}
