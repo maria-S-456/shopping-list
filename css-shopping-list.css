@@ -20,7 +20,7 @@ h1 {
 	width: 190px;
 	font-size: 16px;
 }
-.slash-through {
+.line-through {
 	text-decoration: line-through;
 }
 button {
